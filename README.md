@@ -1,6 +1,6 @@
 # MachineLearning
 
-I have taken "120 years of Olympic history: athletes and results" Data set from Kaggle and 
+I have taken <b>"120 years of Olympic history: athletes and results"</b> Data set from Kaggle and 
 implemented</br>1.  EDA</br>
             2.  KNN</br>
             3.  K Means</br>
